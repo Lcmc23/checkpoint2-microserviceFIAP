@@ -1,0 +1,14 @@
+<table style="border-collapse: collapse; width: 100%;">
+    <tr style="border: 1px solid black;">
+        <th style="border: 1px solid black; padding: 10px;">ID</th>
+        <th style="border: 1px solid black; padding: 10px;">Sigla</th>
+        <th style="border: 1px solid black; padding: 10px;">Nome</th>
+    </tr>
+    <tr *ngFor="let estado of estados" style="border: 1px solid black;">
+        <td style="border: 1px solid black; padding: 10px;">{{ estado.id }}</td>
+        <td style="border: 1px solid black; padding: 10px;">{{ estado.sigla }}</td>
+        <td style="border: 1px solid black; padding: 10px;">{{ estado.nome }}</td>
+    </tr>
+</table>
+
+
