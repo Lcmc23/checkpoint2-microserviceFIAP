@@ -8,6 +8,8 @@
 
 # Node
 /Checkpoint2-pt1/node_modules
+/Checkpoint2-pt2/exe1/node_modules
+/Checkpoint2-pt2/exe2/node_modules
 npm-debug.log
 yarn-error.log
 
@@ -30,6 +32,8 @@ yarn-error.log
 
 # Miscellaneous
 /Checkpoint2-pt1/.angular/cache
+/Checkpoint2-pt2/exe1/.angular/cache
+/Checkpoint2-pt2/exe2/.angular/cache
 .sass-cache/
 /connect.lock
 /coverage
