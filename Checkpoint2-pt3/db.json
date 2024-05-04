@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "id": "gadsjkldfh",
+      "nome": "Lucas Cabral",
+      "telefone": "99999999"
+    },
+    {
+      "id": "kjgfsaldkjfha",
+      "nome": "User test",
+      "telefone": "839183193"
+    },
+    {
+      "nome": "User test 2",
+      "telefone": "1111882828",
+      "id": "ycwnh6"
+    },
+    {
+      "id": "9CN9xS",
+      "nome": "Joao",
+      "telefone": "243363"
+    }
+  ]
+}
