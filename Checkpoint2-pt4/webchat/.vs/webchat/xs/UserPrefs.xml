@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{67BA6949-E8C8-49BD-9225-8C973A408C6E}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.webchat PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyHub.cs">
+    <Files>
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="MyHub.cs" Line="12" Column="2" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webchat">
+            <Node name="webchat">
+              <Node name="Properties" expanded="True" />
+              <Node name="MyHub.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
