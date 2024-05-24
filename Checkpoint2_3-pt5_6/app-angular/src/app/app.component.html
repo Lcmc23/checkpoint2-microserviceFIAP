@@ -1,0 +1,17 @@
+<div>
+  <h2>Usuários</h2>
+  <div *ngFor="let usuario of usuarios">
+    <p>ID: {{usuario.id}}</p>
+    <p>Nome: {{usuario.nome}}</p>
+    <p>Senha: {{usuario.senha}}</p>
+    <button (click)="deleteUsuario(usuario.id)">Deletar</button>
+  </div>
+
+  <h2>Adicionar/Atualizar Usuário</h2>
+  <input [(ngModel)]="usuario.nome" placeholder="Nome" />
+  <input [(ngModel)]="usuario.senha" placeholder="Senha" />
+  <button (click)="addUsuario()">Adicionar</button>
+  <button (click)="updateUsuario()">Atualizar</button>
+</div>
+
+<router-outlet />
